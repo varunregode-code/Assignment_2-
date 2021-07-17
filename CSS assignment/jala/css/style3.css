@@ -1,0 +1,16 @@
+h1{
+  margin: 0 ;
+font-family: 'Festive', cursive;
+font-size: 100px;
+color: #66BFBF;
+
+}
+.ele{
+  background-color: pink;
+  text-align: center;
+}
+body{
+  background-color: black;
+  margin: 0;
+
+}

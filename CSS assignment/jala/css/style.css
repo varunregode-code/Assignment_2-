@@ -1,0 +1,12 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: blue;
+  background-image: url(https://images.pexels.com/photos/1633406/pexels-photo-1633406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) ;
+  background-size: cover;
+}
